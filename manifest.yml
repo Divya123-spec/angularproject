@@ -1,0 +1,6 @@
+applications:
+- path : Dashboard
+  name: Dashboard
+  memory: 32M
+  buildpacks:
+  - staticfile_buildpack
